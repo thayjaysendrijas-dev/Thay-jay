@@ -1,10 +1,3 @@
-# Thay-jay
-
-
-
-
-
-
 
 def display_binary(value):
     # Displays the value in decimal and 8-bit binary format
